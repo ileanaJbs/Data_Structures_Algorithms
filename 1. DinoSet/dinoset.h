@@ -1,3 +1,13 @@
+/*
+Lab 1: DinoSets
+ Implementation of the DinoSet class
+ 
+ Date: 25-Aug-2023
+ Authors:
+          A01798528 - Jocelyn Balderas
+          A01747396 - Marisol Herrera
+*/
+
 #include <string>
 #pragma once
 
